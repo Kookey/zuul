@@ -24,7 +24,7 @@ import rx.Observable;
  * Date: 11/11/15
  * Time: 7:33 PM
  */
-public class MockEndpointFilter extends HttpAsyncEndpoint
+public class  MockEndpointFilter extends HttpAsyncEndpoint
 {
     private String filterName;
     private boolean shouldFilter;
